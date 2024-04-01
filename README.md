@@ -1,13 +1,13 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: NISHA.D</h3>
-<h3>Register Number:212223230143</h3>
+<h3>Register Number: 212223230143</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
-```
 // A* Search Algorithm
 1.  Initialize the open list
+
 2.  Initialize the closed list
     put the starting node on the open 
     list (you can leave its f at zero)
@@ -47,8 +47,6 @@
   
     e) push q on the closed list
     end (while loop)
-
-```
 
 **PROGRAM:**
 
