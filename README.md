@@ -4,7 +4,7 @@
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-
+```
 // A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
@@ -46,8 +46,10 @@
   
     e) push q on the closed list
     end (while loop)
+    ```
 
 **PROGRAM:**
+
 ```
 from collections import defaultdict
 H_dist ={}
@@ -121,11 +123,13 @@ def get_neighbors(v):
         return None
 def heuristic(n):
     return H_dist[n]
-``````            
+```
+        
 #Describe your graph here
-`````
 
-'''Graph_nodes = {
+```
+
+Graph_nodes = {
     'A': [('B', 6), ('F', 3)],
     'B': [('A', 6), ('C', 3), ('D', 2)],
     'C': [('B', 3), ('D', 1), ('E', 5)],
