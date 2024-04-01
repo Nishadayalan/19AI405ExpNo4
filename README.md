@@ -162,13 +162,13 @@ aStarAlgo('S', 'G')
 
 
 <hr>
-<h2>Sample Graph I</h2>
+<h2>Sample Graph I:</h2>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
-<h2>Sample Input</h2>
+<h2>Sample Input:</h2>
 <hr>
 10 14 <br>
 A B 6 <br>
@@ -196,20 +196,20 @@ H 3 <br>
 I 1 <br>
 J 0 <br>
 <hr>
-<h2>Sample Output</h2>
+<h2>Sample Output:</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 
 <hr>
-<h2>Sample Graph II</h2>
+<h2>Sample Graph II:</h2>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
 
 <hr>
-<h2>Sample Input</h2>
+<h2>Sample Input:</h2>
 <hr>
 6 6 <br>
 A B 2 <br>
@@ -225,7 +225,7 @@ E 7 <br>
 D 1 <br>
 G 0 <br>
 <hr>
-<h2>Sample Output</h2>
+<h2>Sample Output:</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
